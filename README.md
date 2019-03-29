@@ -7,3 +7,6 @@ Hello World!!
 
 1. clone (check!)
 2. stage and commit changes in local snapshot
+3. different changes
+4. lots more
+5. okay cool
